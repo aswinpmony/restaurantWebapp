@@ -47,7 +47,7 @@ const About=()=> {
                 textAlign:'center',
 
             }}>
-            Welcome to our restaurant ,where culinary excellence meets warm hospitality
+            Welcome to our restaurantttt ,where culinary excellence meets warm hospitality
             </Typography>
 
         </CustomBox>
